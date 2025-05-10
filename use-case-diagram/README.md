@@ -23,5 +23,5 @@ The use case diagram visualizes the key interactions between different user role
 
 ## 🖼️ Diagram
 
-![Logo]('./AirBnBUseCaseDiagram.png')
+![Logo](./AirBnBUseCaseDiagram.png)
 
