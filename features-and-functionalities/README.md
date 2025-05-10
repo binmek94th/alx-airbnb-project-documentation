@@ -16,6 +16,6 @@ The backend supports the following features:
 - **Notifications**: Email and in-app notifications
 - **Admin Dashboard**: Manage users, bookings, payments, and more
 
-[See the full diagram](./functionalities.png)
+![Logo](./functionalities.png)
 
 ---
